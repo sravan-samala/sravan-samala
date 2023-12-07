@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sravan-samala
+
+
 containers vs VM
-
-
 
 Containers and virtual machines are both technologies used to isolate applications and their dependencies, but they have some key differences:
 
